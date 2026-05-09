@@ -1,8 +1,8 @@
 # Downloaded list :
 
 - [_kappa_18669](./_kappa_18669)
-- [_sun_8590](./_sun_8590)
 - [archive_20260509_113909](./archive_20260509_113909)
+- [downloader-test](./downloader-test)
 - [remote_control](./remote_control)
 
 ---
