@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **2 parts** - **51.65 MB** |
+| **Total Size** | **2 parts** - **45.06 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
