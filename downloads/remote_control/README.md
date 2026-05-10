@@ -1,4 +1,4 @@
-# remote_control.php - Download Failed
+# remote_control
 
 ---
 
@@ -6,29 +6,28 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `remote_control.php` |
-| **URL** | https://video2.xmegadrive.com/remote_control.php?time=1778413859&cv=67f9734230c67455b5236e7bb2b4e8b2&lr=0&cv2=2c0b934e4ac8a876b5326be6eea5d0d2&file=%2Fcontents%2Fvideos%2F266000%2F266919%2F266919_720p.mp4&cv3=8bf7857f53f62e0d61688091c3a3b8b1&cv4=7fe1ad113e9b3df66d785b00cea8e7c4 |
-| **Date** | 2026-05-10 13:44:12 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `remote_control.php` |
+| **Total Size** | **3 parts** - **93.24 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 403
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `remote_control.z01` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z01) |
+| 2 | `remote_control.z02` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z02) |
+| 3 | `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `remote_control.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
 
 ---
 
