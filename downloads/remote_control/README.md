@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `remote_control.php` |
-| **URL** | https://video2.xmegadrive.com/remote_control.php?time=1778414270&cv=24ff5aabaa2eb2ae3396fbbf55190a5c&lr=0&cv2=2510599b4d470343fd02212f1fc7aa0d&file=%2Fcontents%2Fvideos%2F61000%2F61642%2F61642_720p.mp4&cv3=8bf7857f53f62e0d61688091c3a3b8b1&cv4=13e6489ba8f1b87b35a087ad4f6d5e9d |
-| **Date** | 2026-05-10 13:28:23 UTC |
+| **URL** | https://video2.xmegadrive.com/remote_control.php?time=1778413859&cv=67f9734230c67455b5236e7bb2b4e8b2&lr=0&cv2=2c0b934e4ac8a876b5326be6eea5d0d2&file=%2Fcontents%2Fvideos%2F266000%2F266919%2F266919_720p.mp4&cv3=8bf7857f53f62e0d61688091c3a3b8b1&cv4=7fe1ad113e9b3df66d785b00cea8e7c4 |
+| **Date** | 2026-05-10 13:44:12 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 403
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 403
 ```
 
 ---
