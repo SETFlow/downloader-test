@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `remote_control.php` |
 | **URL** | https://video2.xmegadrive.com/remote_control.php?time=1778414270&cv=24ff5aabaa2eb2ae3396fbbf55190a5c&lr=0&cv2=2510599b4d470343fd02212f1fc7aa0d&file=%2Fcontents%2Fvideos%2F61000%2F61642%2F61642_720p.mp4&cv3=8bf7857f53f62e0d61688091c3a3b8b1&cv4=13e6489ba8f1b87b35a087ad4f6d5e9d |
-| **Date** | 2026-05-10 13:14:17 UTC |
+| **Date** | 2026-05-10 13:28:23 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 403
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 403
 ```
 
 ---
