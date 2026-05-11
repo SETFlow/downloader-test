@@ -7,28 +7,24 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **4 parts** - **167.98 MB** |
+| **Size** | 41.80 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
 ---
 
-## Download Links
+## Download Link
 
-| # | File | Link |
-|---|------|------|
-| 1 | `remote_control.z01` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z01) |
-| 2 | `remote_control.z02` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z02) |
-| 3 | `remote_control.z03` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z03) |
-| 4 | `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
+| File | Link |
+|------|------|
+| `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
 
 ---
 
 ## How to Extract
 
-1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
-2. **Open** `remote_control.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-3. **Extract** — all parts combine automatically
+1. **Open** `remote_control.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+2. **Extract** the file
 
 ---
 
