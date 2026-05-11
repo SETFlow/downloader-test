@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **3 parts** - **99.96 MB** |
+| **Total Size** | **7 parts** - **296.73 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -19,7 +19,11 @@
 |---|------|------|
 | 1 | `remote_control.z01` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z01) |
 | 2 | `remote_control.z02` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z02) |
-| 3 | `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
+| 3 | `remote_control.z03` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z03) |
+| 4 | `remote_control.z04` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z04) |
+| 5 | `remote_control.z05` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z05) |
+| 6 | `remote_control.z06` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z06) |
+| 7 | `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
 
 ---
 
