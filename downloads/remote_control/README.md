@@ -1,4 +1,4 @@
-# remote_control
+# remote_control.php - Download Failed
 
 ---
 
@@ -6,32 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `remote_control.php` |
-| **Total Size** | **7 parts** - **296.73 MB** |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `remote_control.php` |
+| **URL** | https://video2.xmegadrive.com/remote_control.php?time=1778535593&cv=c03cb2488ffbfbcfdc407b6f009a06bf&lr=0&cv2=3c0acfd1e8bb4a09f99a97d9ac1aa182&file=%2Fcontents%2Fvideos_new%2F402000%2F402481%2F402481_720p.mp4&cv3=8bf7857f53f62e0d61688091c3a3b8b1&cv4=72e92a0a740664cefc7c35d37fc33653 |
+| **Date** | 2026-05-11 22:44:03 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Links
+## Error Details
 
-| # | File | Link |
-|---|------|------|
-| 1 | `remote_control.z01` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z01) |
-| 2 | `remote_control.z02` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z02) |
-| 3 | `remote_control.z03` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z03) |
-| 4 | `remote_control.z04` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z04) |
-| 5 | `remote_control.z05` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z05) |
-| 6 | `remote_control.z06` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.z06) |
-| 7 | `remote_control.zip` | [Download](https://github.com/Zalius/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
+```
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      -#O#- #   #                                                                    curl: (22) The requested URL returned error: 403
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
-2. **Open** `remote_control.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-3. **Extract** — all parts combine automatically
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
