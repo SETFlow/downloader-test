@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **2 parts** - **74.42 MB** |
+| **Total Size** | **3 parts** - **124.09 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,7 +18,8 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `remote_control.z01` | [Download](https://github.com/SETFlow/downloader-test/raw/main/downloads/remote_control/remote_control.z01) |
-| 2 | `remote_control.zip` | [Download](https://github.com/SETFlow/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
+| 2 | `remote_control.z02` | [Download](https://github.com/SETFlow/downloader-test/raw/main/downloads/remote_control/remote_control.z02) |
+| 3 | `remote_control.zip` | [Download](https://github.com/SETFlow/downloader-test/raw/main/downloads/remote_control/remote_control.zip) |
 
 ---
 
